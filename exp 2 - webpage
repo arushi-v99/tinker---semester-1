@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<BODY BGCOLOR="#DDA0DD">
+</BODY>
+<BODY TEXT="white">
+</BODY>
+<BODY LEFTMARGIN="100">
+</BODY>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>History of Fashion</title>
+</head>
+<body>
+
+  <h1 id="C6" style="text-align:center">Welcome to The World of Fashion History</h1>
+
+  <marquee behaviour="scroll" direction="left">EXPLORE key moments that shaped what we wear — from ancient drapes to digital couture!</marquee>
+
+  <h2>Ancient Civilizations</h2>
+  <p>Learn how Egyptians, Greeks, and Romans used draped garments, linen, and wool — setting foundations for silhouette and status.
+     Here's a link about <a href="https://en.wikipedia.org/wiki/Clothing_in_ancient_Egypt">ancient Egyptian dress</a>.</p>
+
+  <h2>Renaissance to Baroque</h2>
+  <p>Sumptuous fabrics, corsetry, ruffs, and courtly display defined European fashion.
+     Read more in this overview of the <a href="https://en.wikipedia.org/wiki/History_of_fashion_design#Renaissance">Renaissance period</a>.</p>
+
+  <h2>19th-Century Tailoring</h2>
+  <p>Industrialization brought sewing machines, department stores, and precise tailoring.
+     Explore the era of the <a href="https://en.wikipedia.org/wiki/Victorian_fashion">Victorian silhouette</a>.</p>
+
+  <h2>20th-Century Revolutions</h2>
+  <p>From Chanel’s modernism to Dior’s New Look, youth culture, and street style—fashion accelerated with media and mass-production.</p>
+  <h2>Click the image to learn about haute couture:</h2>
+  <p>
+    <a href="https://en.wikipedia.org/wiki/Haute_couture">
+      <img src=https://en.wikipedia.org/wiki/Haute_couture#/media/File:Carolina_Herrera_AW14_12.jpg" alt="Haute couture runway" width="300">
+    </a>
+  </p>
+
+  <h2>Digital & Sustainable Era</h2>
+  <p>Today’s fashion blends global influences with tech, resale, and eco-conscious design. See an intro to
+     <a href="https://en.wikipedia.org/wiki/Sustainable_fashion">sustainable fashion</a>.</p>
+
+  <h2>Want to Browse Primary Sources?</h2>
+  <p>Visit the <a href="https://www.metmuseum.org/about-the-met/collection-areas/the-costume-institute">Met Costume Institute</a> or the
+     <a href="https://www.vam.ac.uk/collections/fashion">A Fashion collection</a> for images and essays.</p>
+  
+  <a href="#C6">Jump to Top</a>
+</body>
+</html>
