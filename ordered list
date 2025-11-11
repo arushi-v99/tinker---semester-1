@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <h1>Steps to make Tea:</h1>
+    <ol>
+        <li>Boil water.</li>
+        <li>Add tea leaves.</li>
+        <li>Let it steep for 3 minutes.</li>
+        <li>Pour into a cup.</li>
+        <li>Add sugar or milk as desired.</li>
+    </ol>
+</body>
+</html>
