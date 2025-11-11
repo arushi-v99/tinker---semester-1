@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+<head>
+<div align="center">
+    <img src="C:\Users\arush\OneDrive\Desktop\tinker\sit_logo.jpg" alt="SIT Nagpur Logo" width="150" height="150"
+    <title>SIT Nagpur - Student Registration Form</title>
+</head>
+<body background="aspirantsecbg.png">
+
+    <h1 align="center">SIT Nagpur - Student Registration Form</h1>
+    <form action="#" method="POST">
+        <table align="center" cellpadding="10" border="1">
+            
+            <!-- Personal Details -->
+            <tr>
+                <td><label for="firstname">First Name:</label></td>
+                <td><input type="text" id="firstname" name="firstname" size="15"></td>
+            </tr>
+            <tr>
+                <td><label for="middlename">Middle Name:</label></td>
+                <td><input type="text" id="middlename" name="middlename" size="15"></td>
+            </tr>
+            <tr>
+                <td><label for="lastname">Last Name:</label></td>
+                <td><input type="text" id="lastname" name="lastname" size="15"></td>
+            </tr>
+            <tr>
+                <td><label for="prn">PRN:</label></td>
+                <td><input type="number" id="prn" name="PRN" size="35"></td>
+            </tr>
+
+            <!-- Course -->
+            <tr>
+                <td><label for="course">Course:</label></td>
+                <td>
+                    <select id="course" name="course">
+                        <option value="Course">Select Course</option>
+                        <option value="BCA">BCA</option>
+                        <option value="BBA">BBA</option>
+                        <option value="B.Tech">B.Tech</option>
+                        <option value="MBA">MBA</option>
+                        <option value="MCA">MCA</option>
+                        <option value="M.Tech">M.Tech</option>
+                    </select>
+                </td>
+            </tr>
+
+            <!-- Semester -->
+            <tr>
+                <td><label for="semester">Semester:</label></td>
+                <td>
+                    <select id="semester" name="semester">
+                        <option value="Select">Select Semester</option>
+                        <option value="I">I</option>
+                        <option value="II">II</option>
+                        <option value="III">III</option>
+                        <option value="IV">IV</option>
+                        <option value="V">V</option>
+                        <option value="VI">VI</option>
+                        <option value="VII">VII</option>
+                        <option value="VIII">VIII</option>
+                    </select>
+                </td>
+            </tr>
+
+            <!-- Section -->
+            <tr>
+                <td><label for="section">Section:</label></td>
+                <td>
+                    <select id="section" name="section">
+                        <option value="Section">Select Section</option>
+                        <option value="A">A</option>
+                        <option value="B">B</option>
+                        <option value="C">C</option>
+                        <option value="D">D</option>
+                    </select>
+                </td>
+            </tr>
+
+            <!-- Gender -->
+            <tr>
+                <td><label>Gender:</label></td>
+                <td>
+                    <input type="radio" name="gender" value="Male"> Male
+                    <input type="radio" name="gender" value="Female"> Female
+                </td>
+            </tr>
+
+            <!-- Phone -->
+            <tr>
+                <td><label for="phone">Phone:</label></td>
+                <td>
+                    <input type="text" name="countrycode" value="+91" size="2"> 
+                    <input type="text" id="phone" name="phone" size="10">
+                </td>
+            </tr>
+
+            <!-- Address -->
+            <tr>
+                <td><label for="address">Address:</label></td>
+                <td><textarea id="address" name="address" cols="40" rows="5"></textarea></td>
+            </tr>
+
+            <!-- Email -->
+            <tr>
+                <td><label for="email">Email:</label></td>
+                <td><input type="email" id="email" name="email"></td>
+            </tr>
+
+            <!-- Password -->
+            <tr>
+                <td><label for="pass">Password:</label></td>
+                <td><input type="password" id="pass" name="pass"></td>
+            </tr>
+            <tr>
+                <td><label for="repass">Re-type Password:</label></td>
+                <td><input type="password" id="repass" name="repass"></td>
+            </tr>
+
+            <!-- File Upload -->
+            <tr>
+                <td><label for="fileupload">Upload Photo:</label></td>
+                <td><input type="file" id="fileupload" name="fileupload" accept="image/*"></td>
+            </tr>
+
+            <!-- Interests -->
+            <tr>
+                <td><label>Interests:</label></td>
+                <td>
+                    <input type="checkbox" name="interest" value="Sports"> Sports
+                    <input type="checkbox" name="interest" value="Music"> Music
+                    <input type="checkbox" name="interest" value="Coding"> Coding
+                    <input type="checkbox" name="interest" value="Art"> Art
+                </td>
+            </tr>
+
+            <!-- Buttons -->
+            <tr>
+                <td colspan="2" align="center">
+                    <input type="submit" value="Submit">
+                    <input type="reset" value="Reset">
+                    <input type="button" value="Click Me">
+                    <input type="image" src="download.png" alt="Submit with Image" width="80" height="40">
+                </td>
+            </tr>
+
+        </table>
+    </form>
+
+</body>
+</html>
