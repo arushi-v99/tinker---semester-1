@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .py {
+            background-color: #957DAD;
+            color: white;
+            border: 2px solid black;
+            margin: 20px;
+            padding: 20px;
+        }
+        .java {
+            background-color: #E08E84;
+            color: white;
+            border: 2px solid black;
+            margin: 20px;
+            padding: 20px;
+        }
+        .c {
+            background-color: #9BC8CF;
+            color: white;
+            border: 2px solid black;
+            margin: 20px;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Programming Languages</h1>
+
+    <div class="py">
+        <h2>Python</h2>
+        <p>Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically type-checked and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming.</p>
+    </div>
+
+    <div class="java">
+        <h2>Java</h2>
+        <p>Java is a high-level, general-purpose, memory-safe, object-oriented programming language. It is intended to let programmers write once, run anywhere meaning that compiled Java code can run on all platforms that support Java without the need to recompile.</p>
+    </div>
+
+    <div class="c">
+        <h2>C</h2>
+        <p>The C programming language is a computer programming language used to improve the UNIX operating system. C is a procedural language, which means that people write their programs as a series of step-by-step instructions. C is a compiled language, which means that the computer source code, written in C, is converted to make machine code that a computer can actually execute.</p>
+    </div>
+</body>
+</html>
