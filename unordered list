@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <h1>Things you need for tea:</h1>
+    <ul style="list-style-type:circle;">
+        <li>Water</li>
+        <li>Tea leaves</li>
+        <li>Sugar</li>
+        <li>Milk</li>
+        <li>Cup</li>
+    </ul>
+</body>
+</html>
